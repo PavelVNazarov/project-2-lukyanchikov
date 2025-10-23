@@ -1,0 +1,7 @@
+{
+  "first_table": [
+    "ID:int",
+    "name:str",
+    "age:int"
+  ]
+}
