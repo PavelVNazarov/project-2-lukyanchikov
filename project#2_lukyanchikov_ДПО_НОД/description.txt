@@ -1,0 +1,28 @@
+программа эмуляции базы данных
+
+pip install poetry
+poetry config virtualenvs.in-project true
+poetry init
+
+Ответы:
+Package name: project#2_lukyanchikov_<ДПО_НОД>
+Version: 0.1.0 Description: (Enter)
+Author: Лукьянчиков Валерий <your.email@example.com>
+License: (Enter)
+Python version: >=3.12
+Dependencies?: no
+Dev dependencies?: no
+
+Шаг 5. Создайте структуру
+В корне проекта: Создайте папку src
+Внутри src → папку primitive_db
+В обеих папках создайте пустые __init__.py
+
+Структура:
+project#2_lukyanchikov_<ДПО_НОД>
+└── src
+    ├── __init__.py
+    └── primitive_db
+        ├── __init__.py
+        └── main.py
+
