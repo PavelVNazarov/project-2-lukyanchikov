@@ -1,6 +1,6 @@
 # Примитивная база данных
 
-Проект: `project#2_lukyanchikov_<ДПО_НОД>`
+Проект: `project-2-lukyanchikov-dpo-nod>`
 
 Исполнитель: Лукьянчиков Валерий  
 Группа: <ДПО_НОД>
@@ -12,3 +12,4 @@ make install
 make project
 
 DB project is running!
+
